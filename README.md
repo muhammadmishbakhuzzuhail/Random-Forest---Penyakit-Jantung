@@ -43,14 +43,15 @@ Agar proyek ini dapat berjalan, pastikan Anda telah menginstal beberapa library 
    cd Random-Forest---Penyakit-Jantung
 
 2. Buat Virtual Environment
+   ```bash
   python -m venv venv
   source venv/bin/activate   # Linux/macOS
   venv\Scripts\activate      # Windows
 
-3. Install Dependensi
+4. Install Dependensi
+   ```bash
    pip install -r requirements.txt
 
-4. Jalankan aplikasi Streamlit
+5. Jalankan aplikasi Streamlit
+   ```bash
    streamlit run app.py
-
-6. 
