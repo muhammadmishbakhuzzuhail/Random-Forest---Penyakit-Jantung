@@ -44,9 +44,9 @@ Agar proyek ini dapat berjalan, pastikan Anda telah menginstal beberapa library 
 
 2. Buat Virtual Environment
    ```bash
-  python -m venv venv
-  source venv/bin/activate   # Linux/macOS
-  venv\Scripts\activate      # Windows
+   python -m venv venv
+   source venv/bin/activate   # Linux/macOS
+   venv\Scripts\activate      # Windows
 
 4. Install Dependensi
    ```bash
